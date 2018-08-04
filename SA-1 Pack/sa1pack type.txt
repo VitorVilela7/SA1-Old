@@ -1,0 +1,28 @@
+﻿
+Compare SA-1 Pack
+
+             ----------|    |---------
+             |Standard | -- | Deluxe |
+             |  Pack   | -- |  Pack  |
+             |----------    ---------|
+
+SA-1 CPU          ✔             ✔
+Less Slowdown     ✔             ✔
+The Last Remap    ✔             ✔
+Sprite Pack       ✔             ✔
+LM Compatibility  ✔             ✔
+Dynamic Sprites   ✘             ✔
+Char.C. DMA       ✘             ✔
+6MB ROMs          ✘             ✔
+8MB ROMs          ✘             ✔
+Full Speed        ✘             ✔
+Pixel Plotting    ✘             ✔
+Fast NMI          ✘             ✔
+SMAS+W Support    ✘             ✔
+Dynamic Vectors   ✘             ✔
+SA-1 H/V Counter  ✘             ✔
+Dynamic BW-RAM M. ✘             ✔
+ZSNES             ✔             ✘
+
+
+✘✔
